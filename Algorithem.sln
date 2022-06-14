@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1157번_단어 공부", "11
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1546번_평균", "1546번_평균\1546번_평균.vcxproj", "{9B2196E6-7DCE-4AF6-9E34-380D1B914FEE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2439번_별찍기-2", "2439번_별찍기-2\2439번_별찍기-2.vcxproj", "{92589704-C2A3-49A4-B388-6FDD3ABF5D9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{9B2196E6-7DCE-4AF6-9E34-380D1B914FEE}.Release|x64.Build.0 = Release|x64
 		{9B2196E6-7DCE-4AF6-9E34-380D1B914FEE}.Release|x86.ActiveCfg = Release|Win32
 		{9B2196E6-7DCE-4AF6-9E34-380D1B914FEE}.Release|x86.Build.0 = Release|Win32
+		{92589704-C2A3-49A4-B388-6FDD3ABF5D9A}.Debug|x64.ActiveCfg = Debug|x64
+		{92589704-C2A3-49A4-B388-6FDD3ABF5D9A}.Debug|x64.Build.0 = Debug|x64
+		{92589704-C2A3-49A4-B388-6FDD3ABF5D9A}.Debug|x86.ActiveCfg = Debug|Win32
+		{92589704-C2A3-49A4-B388-6FDD3ABF5D9A}.Debug|x86.Build.0 = Debug|Win32
+		{92589704-C2A3-49A4-B388-6FDD3ABF5D9A}.Release|x64.ActiveCfg = Release|x64
+		{92589704-C2A3-49A4-B388-6FDD3ABF5D9A}.Release|x64.Build.0 = Release|x64
+		{92589704-C2A3-49A4-B388-6FDD3ABF5D9A}.Release|x86.ActiveCfg = Release|Win32
+		{92589704-C2A3-49A4-B388-6FDD3ABF5D9A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

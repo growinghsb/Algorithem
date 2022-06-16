@@ -18,11 +18,6 @@ int main()
 	{
 		arr[sum % 10]++;
 		sum /= 10;
-
-		if ()
-		{
-			break;
-		}
 	}
 
 	for (int i = 0; i < 10; ++i)
